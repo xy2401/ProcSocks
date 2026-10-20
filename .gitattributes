@@ -1,0 +1,3 @@
+# Preserve upstream bytes, including the JSON header's pinned SHA-256.
+third_party/json.hpp -text
+third_party/json.LICENSE.MIT -text

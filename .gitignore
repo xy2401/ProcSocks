@@ -1,0 +1,8 @@
+/build/
+/dist/
+/config.json
+/config.*.json
+!/config.example.json
+/*.zip
+*.log
+/.vscode/
